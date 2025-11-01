@@ -1,4 +1,4 @@
-# CS-776-Project-Deepfake-Detection-
+# CS-776-Project-Deepfake-Detection
 
 
 
